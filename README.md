@@ -1,4 +1,3 @@
-# novaretail-analysis-clientes
 # NovaRetail: Análisis Exploratorio y Comportamiento de Clientes
 
 Análisis exploratorio de datos (EDA) y validación estadística para **NovaRetail**, enfocado en identificar patrones de comportamiento de los clientes, diferencias entre segmentos y factores clave asociados a sus métricas principales.
